@@ -5,7 +5,7 @@
 
 ### About me
 - 3rd year student of Innopolis University
-- Passionate about everything related to ML: NLP, LLM, CV
+- Passionate about everything related to ML: NLP, LLM, CV, RL
 - Love the music: grunge, alternative, indie, rock
 
 ### Tech Stack & Tools
