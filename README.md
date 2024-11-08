@@ -27,4 +27,4 @@
 
 ### GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chehmet&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MilyaushaShamsutdinova&theme=nord_bright)
