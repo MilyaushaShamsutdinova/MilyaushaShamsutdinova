@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h2>Hi there, I'm Milya</h2>
-  <h4>ML-engineer from Innopolis</h4>
+  <h3>ML-engineer from Innopolis</h3>
 </div>
 
 ### About me
