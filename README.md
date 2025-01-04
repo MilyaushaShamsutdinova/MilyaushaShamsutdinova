@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <h1>Hi there, I'm Milya</h1>
-  <h3>ML-engineer from Innopolis</h3>
+  <h2>Hi there, I'm Milya</h2>
+  <h4>ML-engineer from Innopolis</h4>
 </div>
 
 ### About me
 - 3rd year student of Innopolis University
-- Passionate about everything related to ML: NLP, LLM, CV, RL
+- Passionate about everything related to NLP, LLM, and RL
 - Love the music: grunge, alternative, indie, rock
 
 ### Tech Stack & Tools
