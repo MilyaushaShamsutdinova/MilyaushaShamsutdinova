@@ -1,12 +1,13 @@
 <div id="header" align="center">
   <h2>Hi there, I'm Milya</h2>
-  <h3>ML-engineer from Innopolis</h3>
+  <h3>NLP-engineer from Innopolis</h3>
 </div>
 
 ### About me
 - 3rd year student of Innopolis University
 - Passionate about everything related to NLP, LLM, and RL
-- Love the music: grunge, alternative, indie, rock
+- Particularly interested in LLM alignment
+- Love the music, table tennis, and skiing
 
 ### Tech Stack & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
