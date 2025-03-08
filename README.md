@@ -5,8 +5,8 @@
 
 ### About me
 - 3rd year student of Innopolis University
-- Passionate about everything related to NLP, LLM, and RL
-- Particularly interested in LLM alignment
+- Passionate about everything related to NLP and LLMs
+- Particularly interested in LLM Alignment and inference time scaling techniques
 - Love the music, table tennis, and skiing
 
 ### Tech Stack & Tools
